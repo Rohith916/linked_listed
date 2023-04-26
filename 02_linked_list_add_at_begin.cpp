@@ -5,7 +5,7 @@ struct Node
     int data;
     struct Node *ptr;
 };
-
+//comment added
 struct Node *head,*temp; //head and temp pointer
 void insert()
 {
